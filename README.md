@@ -4,6 +4,28 @@ A classic Snake game implemented in Python using Pygame. The player controls a s
 
 ![Snake Game](https://github.com/mvn-bachhuynh-dn/snake-amazonq/raw/main/screenshot.png)
 
+## Phát triển với Amazon Q
+
+Dự án này được phát triển hoàn toàn với sự hỗ trợ của Amazon Q, một trợ lý AI được phát triển bởi AWS. Quá trình phát triển bao gồm các bước sau:
+
+1. **Tạo mã nguồn game**: Amazon Q đã tạo toàn bộ mã nguồn cho game Snake, bao gồm các chức năng:
+   - Thiết kế giao diện người dùng với Pygame
+   - Xây dựng logic di chuyển của rắn
+   - Tạo hệ thống tính điểm
+   - Xử lý va chạm và kết thúc game
+   - Tạo menu lựa chọn tốc độ
+
+2. **Quản lý mã nguồn với Git**:
+   - Khởi tạo repository
+   - Commit mã nguồn ban đầu
+   - Push lên GitHub
+
+3. **Tạo tài liệu**:
+   - Tạo file README.md với hướng dẫn cài đặt và sử dụng
+   - Mô tả chi tiết các tính năng và cách tùy chỉnh game
+
+Toàn bộ quá trình được thực hiện thông qua giao diện dòng lệnh (CLI) của Amazon Q, cho thấy khả năng hỗ trợ phát triển phần mềm toàn diện của công cụ này.
+
 ## Tính năng
 
 - Giao diện đơn giản, dễ sử dụng
